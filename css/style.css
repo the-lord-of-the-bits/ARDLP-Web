@@ -4,17 +4,14 @@ SELECTOR {
     PROPIEDAD: "23e23px"
 }
 */
-header {
+header, footer {
      background-color:lightseagreen;
      color: darkgreen; 
 }
 body {
     background-color: paleturquoise;
 }
-footer {
-    background-color:lightseagreen;
-}
-#inic {
+#inic, #noso, #cont, #regi {
     color: darkolivegreen;
 }
 
