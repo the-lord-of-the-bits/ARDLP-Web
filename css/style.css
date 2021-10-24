@@ -9,6 +9,9 @@ header, footer {
      color: darkgreen; 
 }
 body {
+    /* Aca agrego Google Fonts
+*/
+    font-family: 'Open Sans', sans-serif;
     background-color: paleturquoise;
 }
 #inic, #noso, #cont, #regi {
