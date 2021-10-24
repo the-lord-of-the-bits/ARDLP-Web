@@ -1,0 +1,20 @@
+/* Esto es para comentar en CSS
+SELECTOR {
+    PROPIEDAD: 132132
+    PROPIEDAD: "23e23px"
+}
+*/
+header {
+     background-color:lightseagreen;
+     color: darkgreen; 
+}
+body {
+    background-color: paleturquoise;
+}
+footer {
+    background-color:lightseagreen;
+}
+#inic {
+    color: darkolivegreen;
+}
+
